@@ -1,0 +1,10 @@
+.Xpath {
+  height: 40px;
+}
+table {
+  border-collapse: collapse;
+  border: 2px #333 solid;
+}
+th {
+  border: 2px #333 solid;
+}
